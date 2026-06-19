@@ -1,0 +1,9 @@
+streamlit
+yt-dlp
+openai-whisper
+chromadb
+sentence-transformers
+langchain-mistralai
+langchain-core
+python-dotenv
+torch

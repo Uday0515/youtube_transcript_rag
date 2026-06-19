@@ -1,0 +1,15 @@
+.env
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+chroma_db/
+*.mp3
+*.wav
+*.m4a
+downloads/
+.DS_Store
+Thumbs.db
+.vscode/
